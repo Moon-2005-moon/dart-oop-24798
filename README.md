@@ -45,3 +45,10 @@ My prediction:
 
 1
 5
+
+Real output:
+
+1
+5
+
+My prediction was correct.
