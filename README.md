@@ -52,3 +52,14 @@ Real output:
 5
 
 My prediction was correct.
+
+## Part 1: Why no setter for balance?
+
+There is no setter for balance to protect the money.
+The balance can only change using topUp() and pay().
+
+## Part 2: What does ~/ do?
+
+The ~/ operator divides two numbers and returns an integer.
+It removes the decimal part.
+The / operator returns a decimal number.
